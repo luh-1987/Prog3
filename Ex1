@@ -1,0 +1,17 @@
+Ex1
+  //Descreva em no máximo 200 palavras o que é um automóvel e o que ele faz. Liste os substantivos e verbos separadamente. Cada substantivo 
+  corresponde a um objeto que precisará ser construído para implementar um sistema, nesse caso, um carro. Selecione 5 dos objetos que você 
+  listou e, para cada um, liste vários atributos e comportamentos. Descreva brevemente como esses objetos interagem entre si e com outros 
+  objetos na sua descrição. Estes passos que você seguiu são típicos do projeto orientado a objetos.//
+  
+	Carro é um veículo que possuí quatro pneus, um motor, freios, embreagem, ignição, um acelerador e um condutor. É utilizado em transportes 
+  tanto de pessoas como de objetos.
+  
+	Objetos 
+	Pneus - Revestimento exterior de borracha que protege a câmara de ar da roda de um veículo.
+	Motor - Um motor é um dispositivo que converte outras formas de energia mecânica, de forma a impelir movimento a uma máquina ou veículo.
+	Freios - O freio serve para parar o veículo, sem ele se o carro não pararia facilmente.
+	Embreagem – Serve para mudar as marchas do carro. 
+	Ignição - Serve para deixar todas as outros objetos funcionas se o condutor não acionar a ignição nada funcionará.
+	Acelerador - Serve para fazer o veículo começar a se locomover ou aumentar a sua velocidade.
+	Condutor - Sem um condutor o carro não funciona, pois é ele quem aciona o freio, o acelerador, a ignição, a embreagem
